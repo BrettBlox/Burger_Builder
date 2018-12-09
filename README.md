@@ -1,5 +1,7 @@
 # Burger Builder
 
+Burger Builder allows users to create an account, build a burger and submit an order to the database. Users can also log back in to view previous orders. Burger Builder was built with React, React-Router, Redux, Firebase and uses CSS classes.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
